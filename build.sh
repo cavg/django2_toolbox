@@ -1,4 +1,3 @@
-
 cp readme.md package/django_toolbox
 
 cd package/django_toolbox/
