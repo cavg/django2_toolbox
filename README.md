@@ -1,6 +1,5 @@
-======
-toolbox
-=====
+Django Toolbox
+---------
 
 toolbox is a simple Django app.
 
